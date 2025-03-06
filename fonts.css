@@ -1,21 +1,21 @@
 @font-face {
-  font-family: 'MinhaFonte';
-  src: url('BAHNSCHRIFT.TTF') format('truetype'),
-       url('BAHNSCHRIFT 1.TTF') format('truetype'),
-       url('BAHNSCHRIFT 2.TTF') format('truetype'),
-       url('BAHNSCHRIFT 3.TTF') format('truetype'),
-       url('BAHNSCHRIFT 4.TTF') format('truetype'),
-       url('BAHNSCHRIFT 5.TTF') format('truetype'),
-       url('BAHNSCHRIFT 6.TTF') format('truetype'),
-       url('BAHNSCHRIFT 7.TTF') format('truetype'),
-       url('BAHNSCHRIFT 8.TTF') format('truetype'),
-       url('BAHNSCHRIFT 9.TTF') format('truetype'),
-       url('BAHNSCHRIFT 9.TTF') format('truetype'),
-       url('BAHNSCHRIFT 10.TTF') format('truetype'),
-       url('BAHNSCHRIFT 11.TTF') format('truetype'),
-       url('BAHNSCHRIFT 12.TTF') format('truetype'),
-       url('BAHNSCHRIFT 13.TTF') format('truetype'),
-       url('BAHNSCHRIFT 14.TTF') format('truetype');
+  font-family: 'BAHNSCHRIFT';
+  src: url('fonts/BAHNSCHRIFT.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%201.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%202.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%203.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%204.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%205.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%206.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%207.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%208.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%209.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%209.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%2010.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%2011.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%2012.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%2013.TTF') format('truetype'),
+       url('fonts/BAHNSCHRIFT%2014.TTF') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
